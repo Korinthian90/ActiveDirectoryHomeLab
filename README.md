@@ -10,7 +10,7 @@ This home lab project consists of creating an Active Directory environment utili
 <h2>Languages and Utilities Used</h2>
 
 - <b>PowerShell</b> 
-- <b>Oracle Virtual Box</b>
+- <b>Oracle VirtualBox</b>
 
 <h2>Environments Used </h2>
 
